@@ -1,7 +1,7 @@
 # 💫 About Me:
-🛠️ I’m currently working on full-stack web development, solving DSA problems in Java, and exploring backend scalability and automation.<br>🤝 I’m looking to collaborate on impactful tech projects — especially those involving web platforms, AI, or backend systems.<br>🤝‍🧑 I’m looking for help with advanced system design, cloud deployments, and writing highly optimized code.<br>🌱 I’m currently learning scalable architecture patterns, advanced Java concepts, and deepening my knowledge of databases and APIs.<br>💬 Ask me about Java, Python, JavaScript, React, Node.js, Express, MongoDB, DSA, Git, or leading tech teams in hackathons and open-source sprints.<br>⚡ Fun fact: I love stepping into leadership roles, breaking down big problems into team-driven solutions, and building clean UIs backed by powerful logic.
+🛠️ Currently diving into full-stack development, Java DSA, and backend scalability.<br>🤝 Open to collaborating on web, AI, or backend projects.<br>🧠 Exploring system design, cloud workflows, and performance optimization.<br>🌱 Learning advanced Java, APIs, and scalable architecture.<br>💬 Ask me about Java, Python, React, Node.js, DSA, or leading dev teams.<br>⚡ Fun fact: I thrive in leadership roles and love turning complex ideas into smart, clean solutions.<br><br>
 
-![Profile views](https://gpvc.arturio.dev/[jiyagh])
+[![Profile views](https://gpvc.arturio.dev/[jiyagh])
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiyagoyal0403) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IamGoyal_Jiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goyal.kira@gmail.com) 
