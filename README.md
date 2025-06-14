@@ -11,7 +11,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jiyagh&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyagh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiyagh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jiyagh&label=Profile%20Views&color=cyan&style=for-the-badge" alt="profile views" />
 </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=jiyagh&icon=1&color=1)](https://visitcount.itsvg.in)
