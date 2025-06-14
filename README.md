@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hey, I’m Jiya, a curious builder who loves turning ideas into real, working products.
-Whether it’s writing backend logic, solving DSA in Java, exploring AI/ML, or leading dev teams during hackathons, I’m always chasing that “aha!” moment in tech.
-I'm passionate about clean code, thoughtful design, and learning something new every single day.
+Hey, I’m Jiya, a curious builder who loves turning ideas into real, working products.<br/>
+Whether it’s writing backend logic, solving DSA in Java, exploring AI/ML, or leading dev teams during hackathons, I’m always chasing that “aha!” moment in tech.<br/>
+I'm passionate about clean code, thoughtful design, and learning something new every single day.<br/>
 If it’s meaningful, challenging, or just a little crazy, count me in. 🚀
 
 ## 🌐 Socials:
