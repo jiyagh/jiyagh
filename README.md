@@ -4,7 +4,7 @@ Whether it’s writing backend logic, solving DSA in Java, exploring AI/ML, or l
 I'm passionate about clean code, thoughtful design, and learning something new every single day.<br/>
 If it’s meaningful, challenging, or just a little crazy, count me in. 🚀
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiyagoyal0403) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IamGoyal_Jiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goyal.kira@gmail.com) 
 
 
