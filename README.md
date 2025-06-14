@@ -1,5 +1,8 @@
 # 💫 About Me:
-🛠️ Currently diving into full-stack development, Java DSA, and backend scalability.<br>🤝 Open to collaborating on web, AI, or backend projects.<br>🧠 Exploring system design, cloud workflows, and performance optimization.<br>🌱 Learning advanced Java, APIs, and scalable architecture.<br>💬 Ask me about Java, Python, React, Node.js, DSA, or leading dev teams.<br>⚡ Fun fact: I thrive in leadership roles and love turning complex ideas into smart, clean solutions.
+Hey, I’m Jiya, a curious builder who loves turning ideas into real, working products.
+Whether it’s writing backend logic, solving DSA in Java, exploring AI/ML, or leading dev teams during hackathons, I’m always chasing that “aha!” moment in tech.
+I'm passionate about clean code, thoughtful design, and learning something new every single day.
+If it’s meaningful, challenging, or just a little crazy, count me in. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiyagoyal0403) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IamGoyal_Jiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goyal.kira@gmail.com) 
