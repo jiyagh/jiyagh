@@ -12,6 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=jiyagh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jiyagh&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyagh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Profile Views](https://komarev.com/ghpvc/?username=jiyagh&label=Visitors&color=555555&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=jiyagh&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 [![](https://visitcount.itsvg.in/api?id=jiyagh&icon=0&color=0)](https://visitcount.itsvg.in)
